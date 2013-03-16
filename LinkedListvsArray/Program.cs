@@ -254,7 +254,7 @@ namespace LinkedListvsArray
                 }
                 else
                 {
-                    ListToReturn.AddLast("FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT");
+                    ListToReturn.AddLast("FILLER !TEXT FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT FILLER TEXT");
                 }
             }
 
